@@ -1,0 +1,5 @@
+Demonstrating lambdas
+
+- pass all outer scope arguments by value [=]
+- pass some outer scope arguments by value [val]
+- all the above but passing by reference [&], [&val]
