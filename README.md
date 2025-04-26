@@ -1,3 +1,3 @@
 C++ snippets
 ----------------
-Code demonstrating C++ concepts
+Code demonstrating all C++ concepts
